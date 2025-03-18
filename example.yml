@@ -25,4 +25,4 @@ jobs:
     - name: Run web crawler
       run: |
         source venv/bin/activate
-        python your_crawler_script.py
+        python GooglemapCraw.py
